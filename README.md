@@ -1,2 +1,3 @@
 # SignLanguage
-Mini Project codes
+Mini Project code.
+Author - Nityashree
