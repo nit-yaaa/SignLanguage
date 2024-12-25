@@ -1,4 +1,5 @@
 # SignLanguage
 Mini Project code.
 <br>
-Author - Nityashree
+Author - Nityashree S
+
